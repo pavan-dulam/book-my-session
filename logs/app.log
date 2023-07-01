@@ -1,0 +1,689 @@
+2023-06-24 16:51:54 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 16:51:55 [INFO]  - Connected to database
+2023-06-24 16:51:55 [INFO]  - Connection available
+2023-06-24 16:51:55 [INFO]  - Connected to database
+2023-06-24 16:51:55 [INFO]  - Server running on port 3000
+2023-06-24 17:05:19 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:05:19 [INFO]  - Connected to database
+2023-06-24 17:05:19 [INFO]  - Connection available
+2023-06-24 17:05:19 [INFO]  - Connected to database
+2023-06-24 17:05:19 [INFO]  - Server running on port 3000
+2023-06-24 17:06:23 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:06:23 [INFO]  - Connected to database
+2023-06-24 17:06:23 [INFO]  - Connection available
+2023-06-24 17:06:23 [INFO]  - Connection available
+2023-06-24 17:06:23 [INFO]  - Connected to database
+2023-06-24 17:06:23 [INFO]  - Server running on port 3000
+2023-06-24 17:31:16 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:31:16 [INFO]  - Connected to database
+2023-06-24 17:31:16 [INFO]  - Connection available
+2023-06-24 17:31:16 [INFO]  - Connection available
+2023-06-24 17:31:16 [INFO]  - Connected to database
+2023-06-24 17:31:16 [INFO]  - Server running on port 3000
+2023-06-24 17:31:49 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:31:49 [INFO]  - Connected to database
+2023-06-24 17:31:49 [INFO]  - Connection available
+2023-06-24 17:31:49 [INFO]  - Connection available
+2023-06-24 17:31:49 [INFO]  - Connected to database
+2023-06-24 17:31:49 [INFO]  - Server running on port 3000
+2023-06-24 17:32:18 [ERROR]  - TypeError: Student.findOne is not a function
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:5:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:35:20 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:35:20 [INFO]  - Connected to database
+2023-06-24 17:35:20 [INFO]  - Connection available
+2023-06-24 17:35:20 [INFO]  - Connection available
+2023-06-24 17:35:20 [INFO]  - Connected to database
+2023-06-24 17:35:20 [INFO]  - Server running on port 3000
+2023-06-24 17:35:24 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:35:24 [INFO]  - Connected to database
+2023-06-24 17:35:24 [INFO]  - Connection available
+2023-06-24 17:35:24 [INFO]  - Connection available
+2023-06-24 17:35:24 [INFO]  - Connected to database
+2023-06-24 17:35:24 [INFO]  - Server running on port 3000
+2023-06-24 17:35:30 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:35:30 [INFO]  - Connected to database
+2023-06-24 17:35:30 [INFO]  - Connection available
+2023-06-24 17:35:30 [INFO]  - Connected to database
+2023-06-24 17:35:30 [INFO]  - Server running on port 3000
+2023-06-24 17:35:34 [ERROR]  - TypeError: Cannot read properties of undefined (reading 'findOne')
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:5:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:39:10 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:39:10 [INFO]  - Connected to database
+2023-06-24 17:39:10 [INFO]  - Connection available
+2023-06-24 17:39:10 [INFO]  - Connected to database
+2023-06-24 17:39:10 [INFO]  - Server running on port 3000
+2023-06-24 17:39:14 [ERROR]  - TypeError: Cannot read properties of undefined (reading 'findOne')
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:6:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:39:48 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:39:48 [INFO]  - Connected to database
+2023-06-24 17:39:48 [INFO]  - Connection available
+2023-06-24 17:39:48 [INFO]  - Connected to database
+2023-06-24 17:39:48 [INFO]  - Server running on port 3000
+2023-06-24 17:39:51 [ERROR]  - TypeError: Cannot read properties of undefined (reading 'findOne')
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:6:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:40:24 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:40:24 [INFO]  - Connected to database
+2023-06-24 17:40:24 [INFO]  - Connection available
+2023-06-24 17:40:24 [INFO]  - Connection available
+2023-06-24 17:40:24 [INFO]  - Connected to database
+2023-06-24 17:40:24 [INFO]  - Server running on port 3000
+2023-06-24 17:40:30 [ERROR]  - TypeError: Student.findOne is not a function
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:6:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:40:47 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:40:47 [INFO]  - Connected to database
+2023-06-24 17:40:47 [INFO]  - Connection available
+2023-06-24 17:40:47 [INFO]  - Connection available
+2023-06-24 17:40:47 [INFO]  - Connected to database
+2023-06-24 17:40:47 [INFO]  - Server running on port 3000
+2023-06-24 17:40:50 [ERROR]  - TypeError: Student.findOne is not a function
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:6:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:42:53 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:42:53 [INFO]  - Connected to database
+2023-06-24 17:42:53 [INFO]  - Connection available
+2023-06-24 17:42:53 [INFO]  - Connected to database
+2023-06-24 17:42:53 [INFO]  - Server running on port 3000
+2023-06-24 17:43:08 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:43:08 [INFO]  - Connected to database
+2023-06-24 17:43:08 [INFO]  - Connection available
+2023-06-24 17:43:08 [INFO]  - Connection available
+2023-06-24 17:43:08 [INFO]  - Connected to database
+2023-06-24 17:43:08 [INFO]  - Server running on port 3000
+2023-06-24 17:43:15 [ERROR]  - TypeError: Student.findOne is not a function
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:6:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:43:27 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:43:27 [INFO]  - Connected to database
+2023-06-24 17:43:27 [INFO]  - Connection available
+2023-06-24 17:43:27 [INFO]  - Connected to database
+2023-06-24 17:43:27 [INFO]  - Server running on port 3000
+2023-06-24 17:43:51 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:43:51 [INFO]  - Connected to database
+2023-06-24 17:43:51 [INFO]  - Connection available
+2023-06-24 17:43:51 [INFO]  - Connected to database
+2023-06-24 17:43:51 [INFO]  - Server running on port 3000
+2023-06-24 17:43:58 [ERROR]  - ReferenceError: Cannot access 'Student' before initialization
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:5:29)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:44:11 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:44:11 [INFO]  - Connected to database
+2023-06-24 17:44:11 [INFO]  - Connection available
+2023-06-24 17:44:11 [INFO]  - Connected to database
+2023-06-24 17:44:11 [INFO]  - Server running on port 3000
+2023-06-24 17:44:13 [INFO]  - Connection available
+2023-06-24 17:44:13 [ERROR]  - TypeError: Student.findOne is not a function
+    at StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:35)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:44)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+2023-06-24 17:44:22 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:44:22 [INFO]  - Connected to database
+2023-06-24 17:44:22 [INFO]  - Connection available
+2023-06-24 17:44:22 [INFO]  - Connected to database
+2023-06-24 17:44:22 [INFO]  - Server running on port 3000
+2023-06-24 17:44:24 [INFO]  - Connection available
+2023-06-24 17:44:24 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 17:55:09 [INFO]  - Connection available
+2023-06-24 17:55:09 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 17:55:17 [INFO]  - Connection available
+2023-06-24 17:55:17 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 17:55:28 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:55:28 [INFO]  - Connected to database
+2023-06-24 17:55:28 [INFO]  - Connection available
+2023-06-24 17:55:28 [INFO]  - Connected to database
+2023-06-24 17:55:28 [INFO]  - Server running on port 3000
+2023-06-24 17:55:32 [INFO]  - Connection available
+2023-06-24 17:55:32 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 17:56:42 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 17:56:42 [INFO]  - Connected to database
+2023-06-24 17:56:42 [INFO]  - Connection available
+2023-06-24 17:56:42 [INFO]  - Connected to database
+2023-06-24 17:56:42 [INFO]  - Server running on port 3000
+2023-06-24 17:56:49 [INFO]  - Connection available
+2023-06-24 17:56:49 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 18:08:45 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:08:45 [INFO]  - Connected to database
+2023-06-24 18:08:45 [INFO]  - Connection available
+2023-06-24 18:08:45 [INFO]  - Connected to database
+2023-06-24 18:08:45 [INFO]  - Server running on port 3000
+2023-06-24 18:08:49 [INFO]  - Connection available
+2023-06-24 18:08:49 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 18:09:31 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:09:31 [INFO]  - Connected to database
+2023-06-24 18:09:31 [INFO]  - Connection available
+2023-06-24 18:09:31 [INFO]  - Connected to database
+2023-06-24 18:09:31 [INFO]  - Server running on port 3000
+2023-06-24 18:09:41 [INFO]  - Connection available
+2023-06-24 18:09:41 [ERROR]  - SequelizeConnectionError: password authentication failed for user "albanero"
+    at Client._connectionCallback (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/connection-manager.js:143:24)
+    at Client._handleErrorWhileConnecting (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:327:19)
+    at Client._handleErrorMessage (/home/albanero/testProject/Book-My-Session/node_modules/pg/lib/client.js:347:19)
+    at Connection.emit (node:events:513:28)
+    at /home/albanero/testProject/Book-My-Session/node_modules/pg/lib/connection.js:117:12
+    at Parser.parse (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/parser.js:40:17)
+    at Socket.<anonymous> (/home/albanero/testProject/Book-My-Session/node_modules/pg-protocol/dist/index.js:11:42)
+    at Socket.emit (node:events:513:28)
+    at addChunk (node:internal/streams/readable:324:12)
+    at readableAddChunk (node:internal/streams/readable:297:9)
+2023-06-24 18:10:44 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:10:44 [INFO]  - Connected to database
+2023-06-24 18:10:44 [INFO]  - Connection available
+2023-06-24 18:10:44 [INFO]  - Connected to database
+2023-06-24 18:10:44 [INFO]  - Server running on port 3000
+2023-06-24 18:11:05 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:11:05 [INFO]  - Connected to database
+2023-06-24 18:11:05 [INFO]  - Connection available
+2023-06-24 18:11:05 [INFO]  - Connected to database
+2023-06-24 18:11:05 [INFO]  - Server running on port 3000
+2023-06-24 18:12:17 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:12:17 [INFO]  - Connected to database
+2023-06-24 18:12:17 [INFO]  - Connection available
+2023-06-24 18:12:17 [INFO]  - Connected to database
+2023-06-24 18:12:17 [INFO]  - Server running on port 3000
+2023-06-24 18:12:49 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:12:49 [INFO]  - Connected to database
+2023-06-24 18:12:49 [INFO]  - Connection available
+2023-06-24 18:12:49 [INFO]  - Connected to database
+2023-06-24 18:12:49 [INFO]  - Server running on port 3000
+2023-06-24 18:12:54 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:12:54 [INFO]  - Connected to database
+2023-06-24 18:12:54 [INFO]  - Connection available
+2023-06-24 18:12:54 [INFO]  - Connected to database
+2023-06-24 18:12:54 [INFO]  - Server running on port 3000
+2023-06-24 18:18:46 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:18:46 [INFO]  - Connected to database
+2023-06-24 18:18:46 [INFO]  - Connection available
+2023-06-24 18:18:46 [INFO]  - Connected to database
+2023-06-24 18:18:46 [INFO]  - Server running on port 3000
+2023-06-24 18:19:37 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:19:37 [INFO]  - Connected to database
+2023-06-24 18:19:37 [INFO]  - Connection available
+2023-06-24 18:19:37 [INFO]  - Connected to database
+2023-06-24 18:19:37 [INFO]  - Server running on port 3000
+2023-06-24 18:19:48 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:19:48 [INFO]  - Connected to database
+2023-06-24 18:19:48 [INFO]  - Connection available
+2023-06-24 18:19:48 [INFO]  - Connected to database
+2023-06-24 18:19:48 [INFO]  - Server running on port 3000
+2023-06-24 18:19:58 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:19:58 [INFO]  - Connected to database
+2023-06-24 18:19:58 [INFO]  - Connection available
+2023-06-24 18:19:58 [INFO]  - Connected to database
+2023-06-24 18:19:58 [INFO]  - Server running on port 3000
+2023-06-24 18:20:11 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:20:11 [INFO]  - Connected to database
+2023-06-24 18:20:11 [INFO]  - Connection available
+2023-06-24 18:20:11 [INFO]  - Connected to database
+2023-06-24 18:20:11 [INFO]  - Server running on port 3000
+2023-06-24 18:20:30 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:20:30 [INFO]  - Connected to database
+2023-06-24 18:20:30 [INFO]  - Connection available
+2023-06-24 18:20:30 [INFO]  - Connected to database
+2023-06-24 18:20:30 [INFO]  - Server running on port 3000
+2023-06-24 18:29:44 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:29:44 [INFO]  - Connected to database
+2023-06-24 18:29:44 [INFO]  - Connection available
+2023-06-24 18:29:44 [INFO]  - Connected to database
+2023-06-24 18:29:44 [INFO]  - Server running on port 3000
+2023-06-24 18:29:45 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:29:45 [INFO]  - Connected to database
+2023-06-24 18:29:45 [INFO]  - Connection available
+2023-06-24 18:29:45 [INFO]  - Connected to database
+2023-06-24 18:29:45 [INFO]  - Server running on port 3000
+2023-06-24 18:29:50 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:29:50 [INFO]  - Connected to database
+2023-06-24 18:29:50 [INFO]  - Connection available
+2023-06-24 18:29:50 [INFO]  - Connected to database
+2023-06-24 18:29:50 [INFO]  - Server running on port 3000
+2023-06-24 18:30:08 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:30:08 [INFO]  - Connected to database
+2023-06-24 18:30:08 [INFO]  - Connection available
+2023-06-24 18:30:08 [INFO]  - Connected to database
+2023-06-24 18:30:08 [INFO]  - Server running on port 3000
+2023-06-24 18:38:29 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:38:29 [INFO]  - Connected to database
+2023-06-24 18:38:29 [INFO]  - Connection available
+2023-06-24 18:38:29 [INFO]  - Connected to database
+2023-06-24 18:38:29 [INFO]  - Server running on port 3000
+2023-06-24 18:39:16 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:39:16 [INFO]  - Connected to database
+2023-06-24 18:39:16 [INFO]  - Connection available
+2023-06-24 18:39:16 [INFO]  - Connected to database
+2023-06-24 18:39:16 [INFO]  - Server running on port 3000
+2023-06-24 18:40:00 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:40:00 [INFO]  - Connected to database
+2023-06-24 18:40:00 [INFO]  - Connection available
+2023-06-24 18:40:00 [INFO]  - Connected to database
+2023-06-24 18:40:00 [INFO]  - Server running on port 3000
+2023-06-24 18:40:53 [INFO]  - Connection lost. Trying to setup new connection...
+2023-06-24 18:40:53 [INFO]  - Connected to database
+2023-06-24 18:40:53 [INFO]  - Connection available
+2023-06-24 18:40:53 [INFO]  - Connected to database
+2023-06-24 18:40:53 [INFO]  - Server running on port 3000
+2023-06-24 18:40:58 [INFO]  - Connection available
+2023-06-24 18:40:58 [ERROR]  - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Student.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async Student.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 18:44:58 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 18:44:58 [INFO] logger.js - Connected to database
+2023-06-24 18:44:58 [INFO] logger.js - Connection available
+2023-06-24 18:44:58 [INFO] logger.js - Connected to database
+2023-06-24 18:44:58 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:01:08 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:01:08 [INFO] logger.js - Connected to database
+2023-06-24 19:01:08 [INFO] logger.js - Connection available
+2023-06-24 19:01:08 [INFO] logger.js - Connected to database
+2023-06-24 19:01:08 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:01:15 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:01:15 [INFO] logger.js - Connected to database
+2023-06-24 19:01:15 [INFO] logger.js - Connection available
+2023-06-24 19:01:15 [INFO] logger.js - Connected to database
+2023-06-24 19:01:15 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:01:21 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:01:21 [INFO] logger.js - Connected to database
+2023-06-24 19:01:21 [INFO] logger.js - Connection available
+2023-06-24 19:01:21 [INFO] logger.js - Connected to database
+2023-06-24 19:01:21 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:01:26 [INFO] logger.js - Connection available
+2023-06-24 19:01:26 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Student.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async Student.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:02:26 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:02:26 [INFO] logger.js - Connected to database
+2023-06-24 19:02:26 [INFO] logger.js - Connection available
+2023-06-24 19:02:26 [INFO] logger.js - Connected to database
+2023-06-24 19:02:26 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:02:29 [INFO] logger.js - Connection available
+2023-06-24 19:02:29 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async Student.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async Student.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:05:22 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:05:22 [INFO] logger.js - Connected to database
+2023-06-24 19:05:22 [INFO] logger.js - Connection available
+2023-06-24 19:05:22 [INFO] logger.js - Connected to database
+2023-06-24 19:05:22 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:05:26 [INFO] logger.js - Connection available
+2023-06-24 19:05:26 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:06:09 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:06:09 [INFO] logger.js - Connected to database
+2023-06-24 19:06:09 [INFO] logger.js - Connection available
+2023-06-24 19:06:09 [INFO] logger.js - Connected to database
+2023-06-24 19:06:09 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:06:16 [INFO] logger.js - Connection available
+2023-06-24 19:06:16 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:08:22 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:08:22 [INFO] logger.js - Connected to database
+2023-06-24 19:08:22 [INFO] logger.js - Connection available
+2023-06-24 19:08:22 [INFO] logger.js - Connected to database
+2023-06-24 19:08:22 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:08:28 [INFO] logger.js - Connection available
+2023-06-24 19:08:28 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:08:36 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:08:36 [INFO] logger.js - Connected to database
+2023-06-24 19:08:36 [INFO] logger.js - Connection available
+2023-06-24 19:08:36 [INFO] logger.js - Connected to database
+2023-06-24 19:08:36 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:08:38 [INFO] logger.js - Connection available
+2023-06-24 19:08:38 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:08:56 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:08:56 [INFO] logger.js - Connected to database
+2023-06-24 19:08:57 [INFO] logger.js - Connection available
+2023-06-24 19:08:57 [INFO] logger.js - Connected to database
+2023-06-24 19:08:57 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:09:36 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:09:36 [INFO] logger.js - Connected to database
+2023-06-24 19:09:36 [INFO] logger.js - Connection available
+2023-06-24 19:09:36 [INFO] logger.js - Connected to database
+2023-06-24 19:09:36 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:09:41 [INFO] logger.js - Connection available
+2023-06-24 19:09:41 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:10:59 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:10:59 [INFO] logger.js - Connected to database
+2023-06-24 19:10:59 [INFO] logger.js - Connection available
+2023-06-24 19:11:00 [INFO] logger.js - Connected to database
+2023-06-24 19:11:00 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:11:05 [ERROR] logger.js - ReferenceError: university_id is not defined
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:9:24)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:47:12)
+2023-06-24 19:11:33 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:11:33 [INFO] logger.js - Connected to database
+2023-06-24 19:11:34 [INFO] logger.js - Connection available
+2023-06-24 19:11:34 [INFO] logger.js - Connected to database
+2023-06-24 19:11:34 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:11:41 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:11:41 [INFO] logger.js - Connected to database
+2023-06-24 19:11:41 [INFO] logger.js - Connection available
+2023-06-24 19:11:41 [INFO] logger.js - Connected to database
+2023-06-24 19:11:41 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:11:47 [INFO] logger.js - Connection available
+2023-06-24 19:11:47 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async students.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async students.findOne (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1240:12)
+    at async StudentService.login (/home/albanero/testProject/Book-My-Session/src/services/studentService.js:7:21)
+    at async login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:8:23)
+2023-06-24 19:12:29 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:12:29 [INFO] logger.js - Connected to database
+2023-06-24 19:12:29 [INFO] logger.js - Connection available
+2023-06-24 19:12:29 [INFO] logger.js - Connected to database
+2023-06-24 19:12:29 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:12:32 [INFO] logger.js - Connection available
+2023-06-24 19:12:32 [ERROR] logger.js - ReferenceError: authService is not defined
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:9:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-24 19:13:22 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:13:22 [INFO] logger.js - Connected to database
+2023-06-24 19:13:22 [INFO] logger.js - Connection available
+2023-06-24 19:13:22 [INFO] logger.js - Connected to database
+2023-06-24 19:13:22 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:13:25 [INFO] logger.js - Connection available
+2023-06-24 19:13:25 [ERROR] logger.js - ReferenceError: authService is not defined
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:10:21)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-24 19:13:34 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:13:34 [INFO] logger.js - Connected to database
+2023-06-24 19:13:34 [INFO] logger.js - Connection available
+2023-06-24 19:13:34 [INFO] logger.js - Connected to database
+2023-06-24 19:13:34 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:13:36 [INFO] logger.js - Connection available
+2023-06-24 19:13:36 [ERROR] logger.js - Error: secretOrPrivateKey must have a value
+    at module.exports [as sign] (/home/albanero/testProject/Book-My-Session/node_modules/jsonwebtoken/sign.js:105:20)
+    at AuthService.generateToken (/home/albanero/testProject/Book-My-Session/src/services/authService.js:6:16)
+    at login (/home/albanero/testProject/Book-My-Session/src/controllers/studentController.js:10:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-24 19:14:12 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:14:12 [INFO] logger.js - Connected to database
+2023-06-24 19:14:12 [INFO] logger.js - Connection available
+2023-06-24 19:14:12 [INFO] logger.js - Connected to database
+2023-06-24 19:14:12 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:14:30 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:14:30 [INFO] logger.js - Connected to database
+2023-06-24 19:14:30 [INFO] logger.js - Connection available
+2023-06-24 19:14:30 [INFO] logger.js - Connected to database
+2023-06-24 19:14:30 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:14:32 [INFO] logger.js - Connection available
+2023-06-24 19:16:41 [ERROR] logger.js - TypeError: Session.find is not a function
+    at getAvailableSessions (/home/albanero/testProject/Book-My-Session/src/controllers/sessionController.js:5:38)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:144:13)
+    at Route.dispatch (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/route.js:114:3)
+    at Layer.handle [as handle_request] (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/layer.js:95:5)
+    at /home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:280:10)
+    at Function.handle (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:175:3)
+    at router (/home/albanero/testProject/Book-My-Session/node_modules/express/lib/router/index.js:47:12)
+2023-06-24 19:18:12 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:18:12 [INFO] logger.js - Connected to database
+2023-06-24 19:18:12 [INFO] logger.js - Connection available
+2023-06-24 19:18:12 [INFO] logger.js - Connected to database
+2023-06-24 19:18:12 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:18:16 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:18:16 [INFO] logger.js - Connected to database
+2023-06-24 19:18:16 [INFO] logger.js - Connection available
+2023-06-24 19:18:16 [INFO] logger.js - Connected to database
+2023-06-24 19:18:16 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:18:25 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:18:25 [INFO] logger.js - Connected to database
+2023-06-24 19:18:25 [INFO] logger.js - Connected to database
+2023-06-24 19:18:25 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:18:34 [INFO] logger.js - Connection available
+2023-06-24 19:18:34 [ERROR] logger.js - TypeError: Session.find is not a function
+    at getAvailableSessions (/home/albanero/testProject/Book-My-Session/src/controllers/sessionController.js:6:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-24 19:19:41 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:19:41 [INFO] logger.js - Connected to database
+2023-06-24 19:19:41 [INFO] logger.js - Connected to database
+2023-06-24 19:19:41 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:20:18 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:20:18 [INFO] logger.js - Connected to database
+2023-06-24 19:20:18 [INFO] logger.js - Connected to database
+2023-06-24 19:20:18 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:20:21 [INFO] logger.js - Connection available
+2023-06-24 19:20:21 [ERROR] logger.js - TypeError: Session.find is not a function
+    at getAvailableSessions (/home/albanero/testProject/Book-My-Session/src/controllers/sessionController.js:6:38)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-24 19:21:14 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:21:14 [INFO] logger.js - Connected to database
+2023-06-24 19:21:14 [INFO] logger.js - Connected to database
+2023-06-24 19:21:14 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:21:17 [INFO] logger.js - Connection available
+2023-06-24 19:21:17 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async sessions.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async getAvailableSessions (/home/albanero/testProject/Book-My-Session/src/controllers/sessionController.js:6:24)
+2023-06-24 19:21:34 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:21:34 [INFO] logger.js - Connected to database
+2023-06-24 19:21:34 [INFO] logger.js - Connected to database
+2023-06-24 19:21:34 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:21:40 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:21:40 [INFO] logger.js - Connected to database
+2023-06-24 19:21:40 [INFO] logger.js - Connected to database
+2023-06-24 19:21:40 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:21:47 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:21:47 [INFO] logger.js - Connected to database
+2023-06-24 19:21:47 [INFO] logger.js - Connected to database
+2023-06-24 19:21:47 [INFO] logger.js - Server running on port 3000
+2023-06-24 19:21:50 [INFO] logger.js - Connection available
+2023-06-24 19:21:50 [ERROR] logger.js - Error
+    at Query.run (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/postgres/query.js:50:25)
+    at /home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/dialects/abstract/query-interface.js:407:12)
+    at async sessions.findAll (/home/albanero/testProject/Book-My-Session/node_modules/sequelize/lib/model.js:1140:21)
+    at async getAvailableSessions (/home/albanero/testProject/Book-My-Session/src/controllers/sessionController.js:6:24)
+2023-06-24 19:23:17 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 19:23:17 [INFO] logger.js - Connected to database
+2023-06-24 19:23:17 [INFO] logger.js - Connected to database
+2023-06-24 19:23:17 [INFO] logger.js - Server running on port 3000
+2023-06-24 22:14:22 [INFO] logger.js - Connection lost. Trying to setup new connection...
+2023-06-24 22:14:22 [INFO] logger.js - Connected to database
+2023-06-24 22:14:22 [INFO] logger.js - Connected to database
+2023-06-24 22:14:22 [INFO] logger.js - Server running on port 3000
